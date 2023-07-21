@@ -1,1 +1,15 @@
 /* your code */
+table{
+	border-collapse:collapse;
+	width:800px;
+	text-align:justify
+}
+th{
+	background-color:#005A92;
+	color:white;
+	text-align:
+	
+}
+tr:nth-child(odd){
+	background-color:#f2f2f2;
+}
